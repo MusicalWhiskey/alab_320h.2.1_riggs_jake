@@ -50,6 +50,10 @@ nav ul li {
     color: gray
 }
 
+#story:first-letter {
+    font-size: 60px;
+}
+
 #continue {
     font-size: 30px;
     text-align: right;   
